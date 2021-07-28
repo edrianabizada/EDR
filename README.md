@@ -1,4 +1,3 @@
-# Edris_Nabizada
 pkg update
 
 pkg upgrade
